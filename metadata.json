@@ -1,0 +1,6 @@
+{
+  "name": "C++ SFML Space Shooter Studio",
+  "description": "An interactive workspace and game studio for a C++ SFML 2D Space Shooter. Play the HTML5 simulator, customize parameters, browse modular OOP C++ source files, and download the ready-to-compile project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
